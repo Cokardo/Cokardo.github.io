@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(fondo2.png);
+
+}
+
+.form-encuesta{
+    width: 400px;
+    background: #c4a558;
+    padding: 30px;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.form-encuesta h1 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    }
+
+    .control {
+
+        width: 100%;
+        background: #ffffff;
+        padding: 10px;
+        border-radius: 4px;
+        margin-bottom: 16px;
+        border: 1px solid #dfa403;
+        font-family: 'calibri';
+        font-size: 18px;
+    }
+
+    .form-encuesta .boton {
+        width: 100%;
+        background: #16c706;
+        border: none;
+        padding: 12px;
+        color: white;
+        margin: 16px 0;
+        font-size: 16xp; 
+    }

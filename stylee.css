@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: content-box;
+}
+body{
+    background-image: url(fondo2.png);
+
+}
+
+.form-encuesta{
+    width: 400px;
+    background: #13a70e;
+    padding: 30px;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 15px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #ffffff;
+}
+
+.gracias{
+    font-family: cursive;
+    font-size: 31px;
+    box-shadow: #ffffff;
+}
